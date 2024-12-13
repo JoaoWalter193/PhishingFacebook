@@ -8,7 +8,7 @@ Projeto de Pshising para o desafio do curso de CyberSegurança fornecido pela Di
 
 <h2>Passo a Passo</h2>
 Acessar a cmd<br>
-Acessar o root utilizando: <bold>sudo su</bold>;<br>
+Acessar o root utilizando: <b>sudo su</b><br>
 Acessar o setoolkit utilizando o comando: <bold>setoolkit</bold><br>
 Rodar o seguinte passo a passo:
   <ul><li>1) Social-Engineering Attacks</li></ul>
