@@ -19,6 +19,7 @@ Após isso selecionar o seu ip onde será feito o host do fake web-site<br>
 E por fim, inserir a url do site que deseja realizar a clonagem
 
 <h2>Resultados:</h2>
+<img>https://github.com/JoaoWalter193/PhishingFacebook/blob/main/passwd.png</img>
 
 
 
