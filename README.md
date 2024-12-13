@@ -19,5 +19,7 @@ Após isso selecionar o seu ip onde será feito o host do fake web-site<br>
 E por fim, inserir a url do site que deseja realizar a clonagem
 
 <h2>Resultados:</h2>
+![image](https://github.com/user-attachments/assets/88b97468-b975-4220-90fd-f54901a33229)
+
 
   
