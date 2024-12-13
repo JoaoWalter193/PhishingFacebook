@@ -14,7 +14,7 @@ Rodar o seguinte passo a passo:
   <ul><li>2) Website Attack Vectors</li></ul>
   <ul><li>3) Credential Harvester Attack Method</li></ul>
   <ul><li>2) Site Cloner</li></ul>
-Após isso selecionar o seu ip onde será feito o host do fake web-site
+Após isso selecionar o seu ip onde será feito o host do fake web-site<br>
 E por fim, inserir a url do site que deseja realizar a clonagem
 
 <h2>Resultados:</h2>
