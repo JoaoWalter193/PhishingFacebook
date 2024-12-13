@@ -7,9 +7,9 @@ Projeto de Pshising para o desafio do curso de CyberSegurança fornecido pela Di
 <ul><li>setoolkit</li></ul>
 
 <h2>Passo a Passo</h2>
-Acessar a cmd
-Acessar o root utilizando: <bold>sudo su</bold>;
-Acessar o setoolkit utilizando o comando: <bold>setoolkit</bold>
+Acessar a cmd\n
+Acessar o root utilizando: <bold>sudo su</bold>;\n
+Acessar o setoolkit utilizando o comando: <bold>setoolkit</bold>\n
 Rodar o seguinte passo a passo:
   <ul><li>2) Website Attack Vectors</li></ul>
   <ul><li>3) Credential Harvester Attack Method</li></ul>
